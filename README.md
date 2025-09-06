@@ -63,11 +63,11 @@ O sistema contempla as seguintes jornadas de cadastro:
 ## 📋 Diagramas da Primeira Etapa
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./documentacao/diagrama-casos-uso.png)
+![Diagrama de Casos de Uso](./imagens/sistema_gestao_universitaria.png)
 *Diagrama apresentando os principais casos de uso do sistema*
 
 ### Diagrama de Classes
-![Diagrama de Classes](./documentacao/diagrama-classes.png)
+![Diagrama de Classes](./imagens/diagrama_de_classe.png)
 *Diagrama mostrando a estrutura das classes e seus relacionamentos*
 
 ## 🔗 Links dos Protótipos
