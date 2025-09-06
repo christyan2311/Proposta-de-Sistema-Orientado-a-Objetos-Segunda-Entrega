@@ -1,16 +1,19 @@
 # Sistema de Cadastros - Projeto Integrador ADS
 
 ## 📋 Integrantes do Grupo
-- [Nome do Integrante 1] - RA: [000000]  
-- [Nome do Integrante 2] - RA: [000000]  
-- [Nome do Integrante 3] - RA: [000000]  
-- [Nome do Integrante 4] - RA: [000000]  
+- [Adriel Xavier Pereira da Silva 1] 
+- [ Alex dos Santos Dutra 2]    
+- [Christyan Roberto Silva 3] 
+- [Gabriel Santos Silva 4]  
+- [Gabriel  Gomes Camiloa 5]
+- [Maria Giovana Manuelle da Silva 6]
+- [Roberto Luan Lima  da Silva 7]
 
 ## 📚 Introdução
 
 Este projeto representa a **segunda etapa** do Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas. O objetivo principal é desenvolver protótipos funcionais das telas de interface do sistema, criando formulários navegáveis para cada jornada de cadastro especificada na primeira etapa.
 
-<img src='./imagens/Captura de tela 2025-09-05 213857.png'>
+<img src='./imagens/Captura de tela 2025-09-05 213857.png' width="600">
 
 ### 🎯 Objetivo do Sistema
 
@@ -63,11 +66,13 @@ O sistema contempla as seguintes jornadas de cadastro:
 ## 📋 Diagramas da Primeira Etapa
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./imagens/sistema_gestao_universitaria.png)
+![Diagrama de Casos de Uso]
+<img src="./imagens/sistema_gestao_universitaria.png"  width="600">
 *Diagrama apresentando os principais casos de uso do sistema*
 
 ### Diagrama de Classes
-![Diagrama de Classes](./imagens/diagrama_de_classe.png)
+![Diagrama de Classes]
+<img src="./imagens/diagrama_de_classe.png"  width="600">
 *Diagrama mostrando a estrutura das classes e seus relacionamentos*
 
 ## 🔗 Links dos Protótipos
@@ -112,30 +117,30 @@ projeto-integrador-ads/
 ### 👤 Pessoa Física
 - Nome Completo* | CPF* | Data de Nascimento*
 - Telefone* | Email* | Endereço*
-<img src="./imagens/pessoa_fisica.png">
+<img src="./imagens/pessoa_fisica.png"  width="400">
 
 ### 🏢 Pessoa Jurídica  
 - Razão Social* | Nome Fantasia | CNPJ*
 - Inscrição Estadual | Telefone* | Email* | Endereço*
-<img src="./imagens/pessoa_juridica.png">
+<img src="./imagens/pessoa_juridica.png"  width="400">
 
 ### 🎓 Professor
 - Nome Completo* | CPF* | Matrícula*
 - Área de Especialização* | Telefone* | Email Institucional*
 - Titulação* | Regime de Trabalho*
-<img src="./imagens/professor.png">
+<img src="./imagens/professor.png"  width="400">
 
 ### 🚚 Fornecedor
 - Razão Social/Nome* | CNPJ/CPF* | Categoria*
 - Pessoa de Contato* | Telefone* | Email*
 - Endereço* | Observações
-<img src="./imagens/fornecedor.png">
+<img src="./imagens/fornecedor.png"  width="400">
 
 ### 📚 Aluno
 - Nome Completo* | CPF* | Data de Nascimento*
 - Matrícula* | Curso* | Período*
 - Telefone* | Email Institucional* | Nome do Responsável
-<img src="./imagens/aluno.png">
+<img src="./imagens/aluno.png"  width="400">
 
 *\* Campos obrigatórios*
 
