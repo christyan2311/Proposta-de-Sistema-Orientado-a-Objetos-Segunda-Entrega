@@ -1,10 +1,13 @@
 # Sistema de Cadastros - Projeto Integrador ADS
 
 ## 📋 Integrantes do Grupo
-- [Nome do Integrante 1] - RA: [000000]  
-- [Nome do Integrante 2] - RA: [000000]  
-- [Nome do Integrante 3] - RA: [000000]  
-- [Nome do Integrante 4] - RA: [000000]  
+- [Adriel Xavier Pereira da Silva 1] 
+- [ Alex dos Santos Dutra 2]    
+- [Christyan Roberto Silva 3] 
+- [Gabriel Santos Silva 4]  
+- [Gabriel  Gomes Camiloa 5]
+- [Maria Giovana Manuelle da Silva 6]
+- [Roberto Luan Lima  da Silva 7]
 
 ## 📚 Introdução
 
