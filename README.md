@@ -10,6 +10,8 @@
 
 Este projeto representa a **segunda etapa** do Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas. O objetivo principal é desenvolver protótipos funcionais das telas de interface do sistema, criando formulários navegáveis para cada jornada de cadastro especificada na primeira etapa.
 
+<img src='./imagens/Captura de tela 2025-09-05 213857.png'>
+
 ### 🎯 Objetivo do Sistema
 
 O sistema visa centralizar e padronizar o processo de cadastro de diferentes entidades em uma instituição de ensino, proporcionando:
@@ -110,25 +112,30 @@ projeto-integrador-ads/
 ### 👤 Pessoa Física
 - Nome Completo* | CPF* | Data de Nascimento*
 - Telefone* | Email* | Endereço*
+<img src="./imagens/pessoa_fisica.png">
 
 ### 🏢 Pessoa Jurídica  
 - Razão Social* | Nome Fantasia | CNPJ*
 - Inscrição Estadual | Telefone* | Email* | Endereço*
+<img src="./imagens/pessoa_juridica.png">
 
 ### 🎓 Professor
 - Nome Completo* | CPF* | Matrícula*
 - Área de Especialização* | Telefone* | Email Institucional*
 - Titulação* | Regime de Trabalho*
+<img src="./imagens/professor.png">
 
 ### 🚚 Fornecedor
 - Razão Social/Nome* | CNPJ/CPF* | Categoria*
 - Pessoa de Contato* | Telefone* | Email*
 - Endereço* | Observações
+<img src="./imagens/fornecedor.png">
 
 ### 📚 Aluno
 - Nome Completo* | CPF* | Data de Nascimento*
 - Matrícula* | Curso* | Período*
 - Telefone* | Email Institucional* | Nome do Responsável
+<img src="./imagens/aluno.png">
 
 *\* Campos obrigatórios*
 
