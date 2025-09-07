@@ -158,5 +158,5 @@ Este projeto foi desenvolvido como parte do Projeto Integrador do curso de **An�
 
 ---
 
-**Projeto Integrador - ADS 2024**  
+**Projeto Integrador - ADS 2025**  
 *Protótipos Funcionais - 2ª Etapa*
