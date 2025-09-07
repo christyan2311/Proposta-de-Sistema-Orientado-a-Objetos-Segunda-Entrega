@@ -8,6 +8,7 @@
 - [Gabriel  Gomes Camiloa 5]
 - [Maria Giovana Manuelle da Silva 6]
 - [Roberto Luan Lima  da Silva 7]
+- [Hugo Viana de Oliveira 8]
 
 ## 📚 Introdução
 
